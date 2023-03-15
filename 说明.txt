@@ -1,0 +1,7 @@
+把鼠标点向这个文件夹的空白
+shift+鼠标右键,打开控制台命令
+	格式asm68k.exe /p 文件,生成文件
+	例asm68k.exe /p test.X68,test.bin
+即可生成test.bin的md游戏文件
+
+注,这个文件也可以用easy68k编译
